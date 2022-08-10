@@ -1,0 +1,23 @@
+{
+  "name": "request",
+  "version": "1.0.0",
+  "description": "对axios二次封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzhenzhen-git/request.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanzhenzhen-git/request/issues"
+  },
+  "homepage": "https://github.com/hanzhenzhen-git/request#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "nprogress": "^0.2.0"
+  }
+}
